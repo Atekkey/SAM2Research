@@ -1,0 +1,6 @@
+using only the first frame's mask in input_mask_dir as input to the SAM 2 model
+running VOS prediction on 50 videos:
+['D4AgqLQL', '3Zf4NFzn', '49TNsJzk', 'nfcT3owb', 'Q3kk9fuH', 'HNrCxhwd', 'ScFTYisJ', 'dtHbJvYy', 'q1MSEBkh', 'yExgitit', 'Vh9NwLSn', 'bl6VuRYE', 'x3nD3QQ9', 'KPDIQo5u', '0tCWPOrc', 'EWCZAcdt', 'rUaDdVmD', '8lxxCA5h', '3nsHQkEK', 'vjG0jbkQ', 'Gy1gwYZD', '8MfWMkrt', 'aT6JIUVU', 'f4DjwV55', 'FiRTBMg2', 'MKnlVo6x', 'xpI7xRWN', 'N6CONZUW', '7BcOR5aJ', 'cjD5WPSv', 'VhwRKgVS', '7K7WVzGG', 'raql9H7f', '48f9Llhg', 'aFytsETk', 'NFbsxmYE', 'pMntJwSQ', 'gdqCcvs2', 'FFMl5yqs', 'KfcCU1ma', 'K3OUeINk', 'cUD1dwuP', 'v3uNUctx', 'ikcMMycg', 'vJ8W2TO5', 'JGG6MrhF', '9mBuSvT2', 'X5U0z8VI', 'kozmQMck', 'd83wYdy0']
+
+1/50 - running on D4AgqLQL
+adding mask from frame 0 as input for object_id=1
