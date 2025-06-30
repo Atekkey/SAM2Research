@@ -3,8 +3,8 @@
 
 import pandas as pd
 import numpy as np
-dfSam = pd.read_csv("/work/hdd/bdnb/atekkey/sam2/notebooks/results/LVOS/results.csv") 
-dfBP = pd.read_csv("/work/hdd/bdnb/atekkey/sam2/notebooks/results/BP_reverse/results.csv")
+dfSam = pd.read_csv("/work/hdd/bdnb/atekkey/temp/r_base_val.csv") 
+dfBP = pd.read_csv("/work/hdd/bdnb/atekkey/temp/r_db_val.csv")
 #/projects/bdnb/dzhao3/outputs/score_cache/results.csv
 
 
